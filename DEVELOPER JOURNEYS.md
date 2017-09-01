@@ -1,4 +1,6 @@
- ## IBM Developer Journeys for Blockchain
+<img src="https://farm5.staticflickr.com/4425/36822690461_e1957b1fb5_z.jpg" width="640" height="182" alt="Journeys">
+
+## IBM Developer Journeys for Blockchain
  
 [IBM Developer Journeys for Blockchain](https://developer.ibm.com/code/journey/category/blockchain/) 		
 
