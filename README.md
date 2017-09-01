@@ -7,6 +7,8 @@
 ## The beginning
 [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) and his historic paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which solved the [double-spend problem](http://www.investopedia.com/terms/d/doublespending.asp) in a peer to peer system.
 
-## Use Cases 
+## Blockchain 101
+[Blockchain 101](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xi912346usen/XI912346USEN.PDF)
 
+## Use Cases 
 [Use Cases](https://www.ibm.com/blockchain/platform/)
