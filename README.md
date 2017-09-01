@@ -9,6 +9,7 @@
 
 ## Blockchain 101
 [Blockchain 101](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xi912346usen/XI912346USEN.PDF)
+
 [Blockchain and its similarities to TCP/IP](https://hbr.org/2017/01/the-truth-about-blockchain)
 
 ## Use Cases 
