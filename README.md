@@ -10,8 +10,7 @@
 ## Blockchain 101
 * [Blockchain 101](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xi912346usen/XI912346USEN.PDF)
 * [What is the difference between Bitcoin and blockchain?*][https://youtu.be/MKwa-BqnJDg]
-
-[Blockchain and its similarities to TCP/IP](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
 ## Use Cases 
 [Use Cases](https://www.ibm.com/blockchain/platform/)
