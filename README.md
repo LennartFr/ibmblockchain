@@ -15,6 +15,10 @@
 ## Blockchain Use Cases 
 [Use Cases](https://www.ibm.com/blockchain/platform/)
 
+## Developing Blockchain applications with Hyperledger Composer Playground
+
+[Hyperledger Composerb](https://composer-playground.mybluemix.net/login)
+
 ## IBM Blockchain Platform
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
 * [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
