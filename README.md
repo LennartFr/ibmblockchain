@@ -16,4 +16,5 @@
 [Use Cases](https://www.ibm.com/blockchain/platform/)
 
 ## IBM Blockchain Platform
-[Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
+* [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
+* [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
