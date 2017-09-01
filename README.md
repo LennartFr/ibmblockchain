@@ -18,8 +18,9 @@
 [Use Cases](https://www.ibm.com/blockchain/platform/)
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
-
 [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
+[Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
+[Bluedemos](https://bluedemos.com/show/159)
 
 ## IBM Blockchain Platform
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
