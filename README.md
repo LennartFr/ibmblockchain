@@ -12,5 +12,5 @@
 * [What is the difference between Bitcoin and blockchain?](https://youtu.be/MKwa-BqnJDg)
 * [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 
-## Use Cases 
+## Blockchain Use Cases 
 [Use Cases](https://www.ibm.com/blockchain/platform/)
