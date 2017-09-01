@@ -11,13 +11,15 @@
 * [Blockchain 101](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xi912346usen/XI912346USEN.PDF)
 * [Video: What is the difference between Bitcoin and blockchain?](https://youtu.be/MKwa-BqnJDg)
 * [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [E-Book: Blockchain for Dummies. Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+
 
 ## Blockchain Use Cases 
 [Use Cases](https://www.ibm.com/blockchain/platform/)
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
 
-[Hyperledger Composerb](https://composer-playground.mybluemix.net/login)
+[Hyperledger Composer](https://composer-playground.mybluemix.net/login)
 
 ## IBM Blockchain Platform
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
