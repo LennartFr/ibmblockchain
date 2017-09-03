@@ -18,7 +18,5 @@ Images
 * Define Governance Rules
 <img src="https://farm5.staticflickr.com/4402/36193213353_c3b1f5e822_o.png" width="1281" height="699" alt="blockchain network 3">
 
-* Define Government Rules
-
-
-
+* Review Summary
+<img src="https://farm5.staticflickr.com/4407/36193361513_dd64fe367f_o.png" width="1282" height="758" alt="blockchain network 4">
