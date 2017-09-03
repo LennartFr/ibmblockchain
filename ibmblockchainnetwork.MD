@@ -13,7 +13,12 @@ Images
 <img src="https://farm5.staticflickr.com/4359/36858199331_0b331ff0a0_o.png">
 
 * Invite members
+<img src="https://farm5.staticflickr.com/4332/36813421236_663ec68139_o.png" width="869" height="540" alt="blockchain network 4">
 
 <img src="https://farm5.staticflickr.com/4336/36860688021_22ed6ed74c_o.png" width="868" height="542" alt="blockchain network 3">
+
+* Define Government Rules
+
+
 
 <img src="https://farm5.staticflickr.com/4380/36858286271_f0d32b840b_o.png" width="697" height="455" alt="blockchain network 2">
