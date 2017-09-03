@@ -20,3 +20,6 @@ Images
 
 * Review Summary
 <img src="https://farm5.staticflickr.com/4407/36193361513_dd64fe367f_o.png" width="1282" height="758" alt="blockchain network 4">
+
+* Make your blockchain smart contracts smarter with business rules
+[Topology of a blockchain network with Hyperledger Fabric, Hyperledger Composer, and IBM ODM](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
