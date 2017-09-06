@@ -28,3 +28,4 @@
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
 * [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
 * [Deploying Hyperledger Composer Business Network to IBM Blockchain Platform Enterprise Plan on IBM Cloud](https://ibm-blockchain.github.io/platform-deployment/)
+* [Creating a Blockchain Network ](ibmblockchainnetwork.MD)
