@@ -18,7 +18,7 @@
 * [Use Cases](https://www.ibm.com/blockchain/platform/)
 
 ## Blockchain Developer Journeys
-* [Blockchain Developer Journeys](https://github.com/LennartFr/ibmblockchain/blob/master/DEVELOPER%20JOURNEYS.md)
+* [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
