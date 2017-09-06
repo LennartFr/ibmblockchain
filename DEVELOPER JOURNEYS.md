@@ -4,6 +4,7 @@
  
 [IBM Developer Journeys for Blockchain](https://developer.ibm.com/code/journey/category/blockchain/) 		
 
+* [Decentralized energy with Hyperledger Composer ](https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/)
 * [Create your first blockchain network using Hyperledger Composer](https://developer.ibm.com/code/journey/build-a-blockchain-network/) 
 * [Create a blockchain app to display and interact with a network through a web interface](https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/)
 * [Create Hyperledger Fabric chaincode on LinuxONE using Hyperledger Composer](https://developer.ibm.com/code/journey/run-blockchain-technology-on-a-linux-mainframe/)
