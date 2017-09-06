@@ -24,7 +24,7 @@
 * [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
 
 ## Hyperledger file types
-* .cto Model file
+TBD
 
 
 ## IBM Blockchain Platform
