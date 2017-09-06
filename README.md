@@ -17,18 +17,14 @@
 ## Blockchain Use Cases 
 * [Use Cases](https://www.ibm.com/blockchain/platform/)
 
-## Blockchain Developer Journeys
-* [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
-
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 * [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
 
-## Hyperledger file types
-TBD
-
+## Blockchain Developer Journeys
+* [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
 
 ## IBM Blockchain Platform
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
