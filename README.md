@@ -29,3 +29,6 @@
 * [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
 * [Deploying Hyperledger Composer Business Network to IBM Blockchain Platform Enterprise Plan on IBM Cloud](https://ibm-blockchain.github.io/platform-deployment/)
 * [Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
+
+## Information sources
+[Rocketchat](https://chat.hyperledger.org/channel/general)
