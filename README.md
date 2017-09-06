@@ -23,7 +23,7 @@
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
-* [Bluedemos](https://bluedemos.com/show/159)
+* [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
 
 ## Hyperledger file types
