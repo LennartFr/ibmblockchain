@@ -13,7 +13,9 @@
 
 
 ## Blockchain Use Cases 
+* [IBM Blockchain based on Hyperledger Fabric from the Linux Foundation](https://www.ibm.com/blockchain/hyperledger.html)
 * [Use Cases](https://www.ibm.com/blockchain/platform/)
+* [The IBM Blockchain Platform is an integrated platform designed to accelerate the creation of a "built for business" global blockchain network across industries and use cases.](https://www.ibm.com/blockchain/offerings.html)
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
