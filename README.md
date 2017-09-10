@@ -11,11 +11,13 @@
 * [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 * [E-Book: Blockchain for Dummies. Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 
-
-## Blockchain Use Cases 
+## IBM Blockchain 
 * [IBM Blockchain based on Hyperledger Fabric from the Linux Foundation](https://www.ibm.com/blockchain/hyperledger.html)
-* [Use Cases](https://www.ibm.com/blockchain/platform/)
 * [The IBM Blockchain Platform is an integrated platform designed to accelerate the creation of a "built for business" global blockchain network across industries and use cases.](https://www.ibm.com/blockchain/offerings.html)
+* [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
+* [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
+* [Deploying Hyperledger Composer Business Network to IBM Blockchain Platform Enterprise Plan on IBM Cloud](https://ibm-blockchain.github.io/platform-deployment/)
+* [Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
@@ -25,12 +27,6 @@
 
 ## Blockchain Developer Journeys
 * [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
-
-## IBM Blockchain Platform
-* [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
-* [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
-* [Deploying Hyperledger Composer Business Network to IBM Blockchain Platform Enterprise Plan on IBM Cloud](https://ibm-blockchain.github.io/platform-deployment/)
-* [Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
 ## Information sources
 [Rocketchat](https://chat.hyperledger.org/channel/general)
