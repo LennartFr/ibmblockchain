@@ -9,6 +9,7 @@
 * [Blockchain 101](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xi912346usen/XI912346USEN.PDF)
 * [Video: What is the difference between Bitcoin and blockchain?](https://youtu.be/MKwa-BqnJDg)
 * [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+* [How Safe are Bockchains?](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends)
 * [E-Book: Blockchain for Dummies. Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 
 ## IBM Blockchain 
