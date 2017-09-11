@@ -12,7 +12,7 @@
 * [E-Book: Blockchain for Dummies. Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 
 ## IBM Blockchain 
-* [IBM Blockchain based on Hyperledger Fabric from the Linux Foundation](https://www.ibm.com/blockchain/hyperledger.html)
+* -> [IBM Blockchain based on Hyperledger Fabric from the Linux Foundation](https://www.ibm.com/blockchain/hyperledger.html)
 * [The IBM Blockchain Platform is an integrated platform designed to accelerate the creation of a "built for business" global blockchain network across industries and use cases.](https://www.ibm.com/blockchain/offerings.html)
 * [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/) helps customers create, deploy and manage blockchain networks. 
 * [Full lifecycle blockchain platform, from IBM](https://youtu.be/LYoWf855I9g)
