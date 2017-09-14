@@ -20,6 +20,9 @@
 * [Deploying Hyperledger Composer Business Network to IBM Blockchain Platform Enterprise Plan on IBM Cloud](https://ibm-blockchain.github.io/platform-deployment/)
 * ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
+## Writing your first application
+* [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
+
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
