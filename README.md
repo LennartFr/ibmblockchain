@@ -29,7 +29,7 @@
 * ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
 <img src="https://farm5.staticflickr.com/4242/35469912652_994bb52eed_c.jpg">
-
+<p>
 <img src="https://farm5.staticflickr.com/4284/34796987864_c5cf29e199_o.png">
 
 ## Developing Blockchain applications with Hyperledger Composer Playground
