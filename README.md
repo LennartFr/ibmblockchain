@@ -22,7 +22,7 @@
 * ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
 ## Writing your first application
-* [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
+* -> [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 *  [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 
