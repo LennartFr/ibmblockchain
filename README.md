@@ -28,6 +28,10 @@
 * -> [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
+<img src="https://farm5.staticflickr.com/4242/35469912652_994bb52eed_c.jpg">
+
+<img src="https://farm5.staticflickr.com/4284/34796987864_c5cf29e199_o.png">
+
 ## Developing Blockchain applications with Hyperledger Composer Playground
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
