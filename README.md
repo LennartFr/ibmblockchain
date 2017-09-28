@@ -25,6 +25,9 @@
 * ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
 
 ## Writing your first application
+
+<img src="https://farm5.staticflickr.com/4445/36704963013_2015507778_o.png" width="597" height="681" alt="Blockchain1">
+
 * -> [Cherries shipment demo](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
 * -> [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
