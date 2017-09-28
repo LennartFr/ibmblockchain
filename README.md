@@ -11,7 +11,7 @@
 * [Harvard Business Review: The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 * [Harvard Business Review: How Safe are Bockchains?](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends)
 * [E-Book: Blockchain for Dummies. Everything you need to know about what blockchain is, how it works, and how you can get started building a blockchain network today.](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
-* [Cheeries shipment demo](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
+* [Cherries shipment demo](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
 
 ## IBM Blockchain 
 * -> [IBM Blockchain based on Hyperledger Fabric from the Linux Foundation](https://www.ibm.com/blockchain/hyperledger.html)
