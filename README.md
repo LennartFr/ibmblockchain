@@ -26,6 +26,13 @@
 
 ## Writing your first application
 
+* -> [Cherries shipment demo](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
+* -> [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
+* [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
+* -> [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
+* ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
+
+
 <img src="https://farm5.staticflickr.com/4445/36704963013_2015507778_o.png" width="597" height="681" alt="Blockchain1">
 <p>World Economic Forum<p>
 <p>
@@ -35,11 +42,7 @@
 <p>
 <img src="https://farm5.staticflickr.com/4421/36666235134_9895e13d7a_o.png" width="779" height="441" alt="blockchain 3"
 <p>
-* -> [Cherries shipment demo](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
-* -> [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
-* [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
-* -> [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
-* ->[Creating a Blockchain Network on the IBM Blockchain Enterprise Plan ](ibmblockchainnetwork.MD)
+<p>
 
 <img src="https://farm5.staticflickr.com/4242/35469912652_994bb52eed_c.jpg">
 <p>
